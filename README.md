@@ -4,9 +4,8 @@ In this project I practice using the fundamentals of Bootstrap grid by piecing t
 view image below:
 ![painting](/assets/images/Composition.jpg)
 
-## Note: additional features
-render the painting differently based on screen size (use breakpoints).
-add different background colors using Bootstrap and
-add some interactivity using Bootstrap.(JS)
+## Link to final website
+https://dorinetk.github.io/bootstrappainting/ 
+
 
 
